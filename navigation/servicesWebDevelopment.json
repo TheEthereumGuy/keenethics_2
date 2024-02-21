@@ -1,0 +1,32 @@
+[
+  {
+    "href": "/services-retail-software-development",
+    "name": "Retail",
+    "metaTitle": "Retail Software Solutions | Retail Software Development",
+    "description": "Building amazing retail products",
+    "metaDescription": "Solving retail app development challenges associated with digital transformation, communication, data safety, technological advancement, and financial operations.",
+    "icon": "icon-e"
+  },
+  {
+    "href": "/services-web-development-node",
+    "name": "Website Node JS",
+    "metaTitle": "Node.JS Development Company, Node.JS Development Services - KeenEthics",
+    "description": "The optimal environment for sustainable, scalable, and resource-efficient apps",
+    "icon": "icon-node"
+  },
+  {
+    "href": "/services-web-development-meteor",
+    "name": "Meteor.js",
+    "metaTitle": "Meteor JS  development services – KeenEthics",
+    "description": "An ambitious fullstack-framework",
+    "metaDescription": "Meteor JS is a highly efficient, popular, convenient, and universal JavaScript framework. While some may say that the glory days of Meteor are over, we will argue that they are definitely not. ",
+    "icon": "icon-meteor"
+  },
+  {
+    "href": "/services-web-development",
+    "name": "Programmable Voice",
+    "metaTitle": "Programmable Voice Development - KeenEthics",
+    "description": "When computer can replace a human",
+    "icon": "icon-voice"
+  }
+]

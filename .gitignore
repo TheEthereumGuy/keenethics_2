@@ -1,0 +1,15 @@
+node_modules
+
+.DS_Store
+
+.next
+.idea
+.vscode
+.projectile
+
+yarn-error.log
+private.config.js
+
+.css.map
+.env
+public/sitemap.xml

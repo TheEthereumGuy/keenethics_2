@@ -1,0 +1,22 @@
+[
+  {
+    "href": "/services-mobile-development-apple",
+    "name": "iOS development",
+    "name2": "iOS",
+    "metaTitle": "iOS App Development Company - KeenEthics",
+    "metaDescription": "KeenEthics offering simple, elegant, and perfect iOS apps.",
+    "tabsDescription": "KeenEthics offering simple, elegant, and perfect iOS apps.",
+    "description": "KeenEthics offering simple, elegant, and perfect iOS apps.",
+    "icon": "icon-apple"
+  },
+  {
+    "href": "/services-mobile-development-android",
+    "name": "Android development",
+    "name2": "Android",
+    "metaTitle": "Android App Development Company - KeenEthics",
+    "metaDescription": "KeenEthics offering practical, profitable, and compatible Android apps. ",
+    "tabsDescription": "KeenEthics offering practical, profitable, and compatible Android apps.",
+    "description": "KeenEthics offering practical, profitable, and compatible Android apps.",
+    "icon": "icon-android"
+  }
+]

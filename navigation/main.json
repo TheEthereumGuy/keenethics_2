@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Home",
+    "description": "KeenEthics: Ethical Web and Mobile Development Partner",
+    "metaTitle": "KeenEthics: Ethical web and mobile development partner",
+    "metaDescription": "KeenEthics is an ethical web and mobile development partner based in Eastern Europe and represented in the Netherlands and the United States.",
+    "href": "/#main",
+    "anchor": "main"
+  },
+  {
+    "name": "Services",
+    "href": "/#services",
+    "anchor": "services",
+    "points": [
+      {
+        "name": "Web Development",
+        "description": "Developing high-quality and fault-tolerant web platforms for the Internet and private networks.",
+        "metaTitle": "Custom Web Development Services - KeenEthics",
+        "metaDescription": "High-quality and fault-tolerant web platforms for the Internet and private networks",
+        "href": "/services-web-development",
+        "type": "default"
+      },
+      {
+        "name": "Mobile Development",
+        "description": "We offer exactly the applications that you need.",
+        "metaTitle": "Mobile App Development Company - KeenEthics",
+        "metaDescription": "KeenEthics offering you exactly the mobile application that you need.",
+        "href": "/services-mobile-development",
+        "type": "default"
+      },
+      {
+        "name": "MVP Development Services",
+        "description": "Using a resource-efficient approach to test the viability of your business idea.",
+        "metaTitle": "MVP Development Services — KeenEthics",
+        "metaDescription": "Developing MVP is a resource-efficient approach to test the viability of your business idea — to see if the market needs it, if the users like it, and how you can improve it. In fact, MVP development takes about 6 times less time and resources than the development of a full app.",
+        "href": "/approach-minimum-viable-product",
+        "type": "default"
+      },
+      {
+        "name": "Progressive Web Apps",
+        "description": "Fast, reliable, and engaging mobile-ready web apps with little effort.",
+        "metaTitle": "PWA App Development Company, PWA Mobile App Development - KeenEthics",
+        "metaDescription": "Fast, reliable, and engaging mobile-ready web apps with little effort",
+        "href": "/tech-apps-progressive-web-apps",
+        "type": "default"
+      },
+      {
+        "name": "Dedicated Development Team",
+        "description": "Maintaining control, improving team skill set, and reducing HR costs.",
+        "metaTitle": "Dedicated Software Development Teams | KeenEthics",
+        "metaDescription": "Maintain control, improve team skill set, and reduce HR costs with dedicated development team from KeenEthics.",
+        "href": "/services-dedicated-development-team",
+        "type": "default"
+      },
+      {
+        "name": "Cloud Application Development",
+        "description": "KeenEthics offers secure, reliable, and cost-efficient custom cloud solutions, from custom development through migration and integration to support and maintenance.",
+        "metaTitle": "Software Maintenance and Support Services | KeenEthics",
+        "metaDescription": "KeenEthics offers secure and reliable custom cloud solutions, from custom development through migration and integration to support and maintenance.",
+        "href": "/services-cloud-application-development",
+        "type": "default"
+      },
+      {
+        "name": "Chatbots and Artificial Intelligence",
+        "description": "Automating monotonous tasks, improving your business performance, and boosting customer satisfaction.",
+        "metaTitle": "AI Chatbot Development Services | KeenEthics",
+        "metaDescription": "KeenEthics chatbot and AI solutions automate monotonous tasks, improve your business performance, and boost customer satisfaction.",
+        "href": "/services-chatbots-artificial-intelligence",
+        "type": "default"
+      },
+      {
+        "name": "Internet of Things",
+        "description": "Building effective, reliable, and secure IoT solutions, which will jump-start your business.",
+        "metaTitle": "IoT App Development Company, Hire IoT Developers - KeenEthics",
+        "metaDescription": "KeenEthics builds effective, reliable, and secure IoT solutions, which will jump-start your business",
+        "href": "/services-internet-of-things",
+        "type": "default"
+      },
+      {
+        "name": "Indoor Positioning System",
+        "metaTitle": "Indoor Positioning System — KeenEthics",
+        "description": "This solution will bring your customer service and employee management to a new level.",
+        "metaDescription": "We offer the indoor positioning solution, which will bring your customer service and employee management to a new level. We are working with stores, malls, airports, subway and railway stations, business centers, hotels, warehouses, construction sites, and plants.",
+        "href": "/services-indoor-positioning-system-development",
+        "type": "default",
+        "outsideMenu": true
+      }
+    ]
+  },
+  {
+    "name": "Full-Cycle Method",
+    "href": "/#methods",
+    "anchor": "methods",
+    "outsideMenu": true,
+    "points": [
+      {
+        "name": "Business Analysis",
+        "description": "KeenEthics business analysis services: reducing development expenses and boosting sales through sound project research.",
+        "metaTitle": "Business Analysis Services | KeenEthics",
+        "metaDescription": "KeenEthics business analysis services: reducing development expenses and boosting sales through sound project research",
+        "href": "/services-business-analysis",
+        "type": "default"
+      },
+      {
+        "name": "UI/UX Design",
+        "metaTitle": "UI UX Design Services, Hire UI/UX Designers — Keenethics",
+        "description": "KeenEthics UI/UX Designers are creating elegant, responsive, and effectual user interface and experience designs with the latest market tendencies in mind.",
+        "metaDescription": "As a UI UX design company, we start with project discovery, user testing, and UX audit. Then, we do wireframing, prototyping, and mockuping. After that, we evaluate designs. Only when clients and designers are happy with results, the designs are sent for development.",
+        "href": "/services-ui-ux-design",
+        "type": "default"
+      },
+      {
+        "name": "Development and Quality Assurance",
+        "metaTitle": "Software Testing and QA Services | KeenEthics",
+        "description": "KeenEthics team creates high-quality software products with thorough development and expert Quality Assurance services.",
+        "metaDescription": "KeenEthics team creates high-quality software products with thorough development and expert Quality Assurance services.",
+        "href": "/services-development-and-quality-assurance",
+        "type": "default"
+      },
+      {
+        "name": "Software Deployment and Implementation Services",
+        "metaTitle": "Software Deployment and Implementation Services - KeenEthics",
+        "description": "Making your software product finally bring profit",
+        "metaDescription": "If you do not deploy your software product to the web or an app store, the entire software design and development process becomes useless. Having come so far, why would you hide your product from the target audience?",
+        "href": "/services-software-deployment",
+        "type": "default"
+      },
+      {
+        "name": "Maintenance and Support",
+        "metaTitle": "Software Maintenance and Support Services – KeenEthics Blog",
+        "description": "KeenEthics team keeps your product updated, relevant, and perfectly functioning.",
+        "metaDescription": "KeenEthics team keeps your product updated, relevant, and perfectly functioning. We offer a warranty for each software product we develop",
+        "href": "/services-maintenance-support",
+        "type": "default"
+      }
+    ]
+  },
+  {
+    "name": "Industries",
+    "href": "/#industries",
+    "anchor": "industries",
+    "points": [
+      {
+        "name": "Education Software Development",
+        "description": "Revolutionizing the world of personal, academic, and professional development",
+        "metaTitle": "Education Software Development Company - KeenEthics",
+        "metaDescription": "KeenEthics revolutionizing the world of personal, academic, and professional development.",
+        "href": "/services-education-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Nonprofit Software Development",
+        "metaTitle": "Non-Profit Software Development – KeenEthics",
+        "description": "Helping non-profit companies achieve their ethical goals",
+        "metaDescription": "KeenEthics helps non-profit companies achieve their ethical goals. We develop landing and donation pages, automation solutions, CRM systems, and software for fundraising, event management, communication, volunteer management, marketing, and advertising.",
+        "href": "/services-non-profit-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Healthcare Software Development",
+        "metaTitle": "Custom Healthcare Software Development Company - KeenEthics",
+        "description": "Solving healthcare app development challenges associated with medical responsibility, patient ethics, high costs, technological advancement, and holistic approach",
+        "metaDescription": "Solving app development challenges associated with medical responsibility, patient ethics, high costs, technological advancement, and holistic approach",
+        "href": "/services-custom-healthcare-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Logistics Software Solutions",
+        "description": "Embodying goal-oriented values and taking your business to a new level",
+        "metaTitle": "Logistics Software Development Company — KeenEthics",
+        "metaDescription": "KeenEthics builds logistics software solutions that increase your profit and systematize business processes. We provide transportation, navigation, warehouse management, accounting &amp; reporting, and supply chain tech solutions.",
+        "href": "/logistics-industry",
+        "type": "default"
+      },
+      {
+        "name": "Agriculture Software Development",
+        "description": "Making the agricultural sphere smarter and more efficient",
+        "metaTitle": "Agriculture Software Development — KeenEthics Blog",
+        "metaDescription": "KeenEthics helps farmers make the agricultural sphere smarter and more efficient. We offer solutions for grazing management, livestock management, precision agriculture, farm management and accounting, and agriculture trade.",
+        "href": "/services-agriculture-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Banking and Financial Software Development Services",
+        "metaTitle": "Banking and Financial Software Development Services – KeenEthics",
+        "description": "Fostering innovation and bringing the world of banking and financial services one step closer to people",
+        "metaDescription":"KeenEthics fosters innovation and brings the world of banking and financial services one step closer to people. By ensuring quality, security, compliance, and elegance, we develop effective and reliable financial software solutions.",
+        "href": "/services-financial-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Real Estate Software Development Services",
+        "metaTitle": "Real Estate Software Development Services – KeenEthics",
+        "description": "Automating routine tasks, making the market transparent, and bringing CRM to a new level",
+        "metaDescription": "Together with KeenEthics, you can automate routine tasks, make the real estate market more transparent, and bring customer relationship management to a new level.",
+        "href": "/services-real-estate-software-development",
+        "type": "default"
+      },
+      {
+        "name": "Retail Software Development Services",
+        "metaTitle": "Retail Software Development Services – KeenEthics",
+        "description": "Solving retail challenges associated with digital transformation, data safety, and technological advancement.",
+        "metaDescription": "Solving retail app development challenges associated with digital transformation, communication, data safety, technological advancement, and financial operations.",
+        "href": "/services-retail-software-development",
+        "type": "default"
+      }
+    ]
+  },
+  {
+    "name": "About us",
+    "href": "/about-us",
+    "anchor": "founders"
+  },
+  {
+    "name": "Projects",
+    "description": "Keen projects we put into action.",
+    "metaTitle": "Projects – KeenEthics",
+    "metaDescription": "Keen projects we put into action.",
+    "href": "/portfolio",
+    "anchor": "projects",
+    "points": [
+      {
+        "name": "All",
+        "href": "/portfolio?chosen=All"
+      },
+      {
+        "name": "Business apps",
+        "href": "/portfolio?chosen=Business"
+      },
+      {
+        "name": "Educational apps",
+        "href": "/portfolio?chosen=Education"
+      },
+      {
+        "name": "Consumer apps",
+        "href": "/portfolio?chosen=E-Commerce"
+      }
+    ]
+  },
+  {
+    "name": "Technologies",
+    "href": "/#tech-stack",
+    "anchor": "tech-stack",
+    "points": [
+      {
+        "name": "Node.js",
+        "metaTitle": "Node.js Development Services — KeenEthics",
+        "description": "The optimal environment for sustainable, scalable, and resource-efficient apps",
+        "metaDescription": "As an experienced Node.js development company, we can build a variety of server tools and applications, Node.js chatbots, complex websites, real-time applications, and more — whatever will help your company grow.",
+        "href": "/services-web-development-node",
+        "type": "default"
+      },
+      {
+        "name": "Angular",
+        "metaTitle": "AngularJS Development Services & Company | KeenEthics",
+        "description": "Using the scalable, reliable, self-sufficient, and multifunctional  framework",
+        "metaDescription": "Web and mobile development services using a scalable, reliable, self-sufficient, and multifunctional framework",
+        "href": "/tech-front-end-angular",
+        "type": "default"
+      },
+      {
+        "name": "React",
+        "metaTitle": "React.JS Development Services, Hire ReactJS Developers — KeenEthics",
+        "description": "Using a JS library for the development of responsive user interfaces and management of dynamically changing data",
+        "metaDescription": "KeenEthics offers React JS development services for the development of responsive user interfaces and management of dynamically changing data. A ReactJS developer can make almost any idea work, however complex the project was.",
+        "href": "/tech-front-end-react",
+        "type": "default"
+      },
+      {
+        "name": "React Native",
+        "metaTitle": "React Native Development Company - KeenEthics",
+        "description": "With the help of React Native developers can create powerful hybrid apps for iOS, Android, and Windows.",
+        "metaDescription": "React Native is a fast convenient framework for cross-platform mobil development. The greatest benefits include live reload and code reusability.",
+        "href": "/tech-apps-react-native",
+        "type": "default"
+      },
+      {
+        "name": "Aurelia",
+        "metaTitle": "Aurelia development services – KeenEthics",
+        "description": "Aurelia.js development is ideal for those next-generation apps and has a lot of features that really make a difference",
+        "metaDescription": "KeenEthics uses a simple but powerful platform for building performant web, desktop, and mobile projects.",
+        "href": "/tech-front-end-aurelia",
+        "type": "default"
+      },
+      {
+        "name": "Vue.js",
+        "metaTitle": "Vue.js development services — KeenEthics",
+        "description": "Vue.js is the innovative, performant, flexible, highly popular, and fastest-growing JS front-end development framework.",
+        "metaDescription": "Vue.js is the innovative, performant, flexible, highly popular, and fastest-growing JS front-end development framework. It is ideal for MVP and PWA development.",
+        "href": "/tech-front-end-vue",
+        "type": "default"
+      },
+      {
+        "name": "Express.js",
+        "metaTitle": "Express.js development services – KeenEthics",
+        "description": "Using the lightweight and time-efficient web and mobile development framework.",
+        "metaDescription": "Using the lightweight and time-efficient web and mobile development framework",
+        "href": "/tech-back-end-express",
+        "type": "default"
+      },
+      {
+        "name": "Electron",
+        "metaTitle": "Electron development services – KeenEthics",
+        "description": "Electron is a convenient and popular runtime framework for creating cross-platform desktop apps.",
+        "metaDescription": "Electron is a convenient and popular runtime framework for creating cross-platform desktop apps.",
+        "href": "/tech-apps-electron",
+        "type": "default"
+      },
+      {
+        "name": "PhoneGap",
+        "metaTitle": "Cordova & PhoneGap App Development – KeenEthics",
+        "description": "If you are looking forward to saving your budget, consider an idea of outsourcing PhoneGap to a software provider.",
+        "metaDescription": "KeenEthics uses a convenient cross-platform framework to let you save on mobile app development and market the app faster.",
+        "href": "/tech-apps-phonegap",
+        "type": "default"
+      },
+      {
+        "href": "/tech-data-base-mysql",
+        "name": "MySQL",
+        "metaTitle": "MySQL development services – KeenEthics",
+        "description": "Most popular SQL-database",
+        "metaDescription": "MySQL is one of the most popular, simple, and secure database management system. It suits cloud development needs and is not going to grow outdated any time soon.",
+        "icon": "icon-mysql"
+      },
+      {
+        "href": "/tech-data-base-mongo",
+        "name": "Mongo",
+        "description": "Fast noSQL database",
+        "metaTitle": "MongoDB  development services – KeenEthics",
+        "metaDescription": "MongoDB is a flexible, scalable, and convenient database for the latest development challenges.",
+        "icon": "icon-mongo"
+      },
+      {
+        "name": "Meteor",
+        "metaTitle": "Meteor JS  development services — KeenEthics",
+        "description": "Meteor JS is a highly efficient, popular, convenient, and universal JavaScript framework. While some may say that the glory days of Meteor are over, we will argue that they are definitely not.",
+        "metaDescription": "Meteor JS is a highly efficient, popular, convenient, and universal JavaScript framework. While some may say that the glory days of Meteor are over, we will argue that they are definitely not.",
+        "href": "/services-web-development-meteor",
+        "type": "default"
+      },
+      {
+        "name": "Svelte",
+        "metaTitle": "Svelte JS  development services – KeenEthics",
+        "description": "Svelte is a simple but incredibly efficient and performant user interface development framework. Unlike other frameworks, such as React or Vue, which allow you to write declarative code, with Svelte, you write imperative code.",
+        "metaDescription": "Svelte is a simple but incredibly efficient and performant user interface development framework. ",
+        "href": "/tech-front-end-svelte",
+        "type": "default"
+      }
+    ]
+  },
+  {
+    "name": "Careers",
+    "description": "Find your vocation at an ethical JavaScript development company KeenEthics",
+    "metaTitle": "Careers - KeenEthics",
+    "metaDescription": "Find your vocation at an ethical JavaScript development company KeenEthics",
+    "href": "/careers"
+  },
+  {
+    "name": "Blog",
+    "description": "Articles based on our experience",
+    "metaTitle": "Web and mobile development blog - KeenEthics",
+    "metaDescription": "Read the latest news and opinions about software development from KeenEthics Blog - all articles are based on our experience.",
+    "href": "/blog",
+    "anchor": "blog"
+  },
+  {
+    "name": "Contact us",
+    "description": "Contact KeenEthics to solve your business challenges with full-cycle development.",
+    "metaTitle": "Contact Us - KeenEthics",
+    "metaDescription": "Contact KeenEthics to solve your business challenges with full-cycle development.",
+    "href": "/contacts",
+    "anchor": "lets-start"
+  },
+  {
+    "name": "GDPR Privacy Policy",
+    "description": "For a better experience, while using our Services, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address.",
+    "metaTitle": "GDPR privacy policy - KeenEthics",
+    "metaDescription": "For a better experience, while using our Services, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address.",
+    "href": "/privacy-policy",
+    "type": "hidden"
+  },
+  {
+    "name": "Cookie Policy",
+    "description": "As is common practice with almost all professional websites, this site uses cookies, which are tiny files that are downloaded to your computer to improve your experience.",
+    "metaTitle": "Cookie policy - KeenEthics",
+    "metaDescription": "As is common practice with almost all professional websites, this site uses cookies, which are tiny files that are downloaded to your computer to improve your experience.",
+    "href": "/cookie-policy",
+    "type": "hidden"
+  },
+  {
+    "name": "Referral Program",
+    "description": "",
+    "metaTitle": "Referral Program - KeenEthics",
+    "metaDescription": "",
+    "href": "/referral-program",
+    "type": "hidden"
+  }
+]
